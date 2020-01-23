@@ -33,7 +33,7 @@ following primary components (Figure 1):
 
 5.  Frame
 
-<img src="/machine.png" /> <br>
+<img src="/machine.PNG" /> <br>
  &emsp;&emsp;&emsp; Figure 1: Tracking Wheel Apparatus (Isometric View)
 
 ## *Control System Design*
