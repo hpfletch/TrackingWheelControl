@@ -33,7 +33,7 @@ following primary components (Figure 1):
 
 5.  Frame
 
-<img src="/cycle.png" /> <br>
+<img src="/machine.png" /> <br>
  &emsp;&emsp;&emsp; Figure 1: Tracking Wheel Apparatus (Isometric View)
 
 ## *Control System Design*
@@ -56,7 +56,8 @@ The user specified voltage is applied to the active end of the insulator
    Step 4: Idle  
    After being energized, the insulator in position 2 drains of any excess
    charge and sits idle for contamination
-<img src="/machine.png" /> <br>
+   
+<img src="/cycle.png" /> <br>
 &emsp;&emsp;&emsp;Figure 2: Tracking Wheel Cycle Diagram
 
 Therefore, to complete the proposed tracking wheel design, a control system must
